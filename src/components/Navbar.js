@@ -16,7 +16,7 @@ const Navbar = () => {
     fontSize="24px"
     alignItems="flex-end"
     >
-        <Link to="user" style={{ textDecoration: 'none', color: '#3A1212', borderBottom: '3px solid #4BB543 ' }}>User</Link>
+        <Link to="/user" style={{ textDecoration: 'none', color: '#3A1212', borderBottom: '3px solid #4BB543 ' }}>User</Link>
     </Stack>
     <Stack
       direction="row"
